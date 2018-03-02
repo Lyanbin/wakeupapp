@@ -1,0 +1,24 @@
+{
+  "name": "weakupapp",
+  "version": "1.0.0",
+  "description": "weakupapp",
+  "main": "index.js",
+  "scripts": {
+    "dev": "parcel demo.html",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Lyanbin/weakupapp.git"
+  },
+  "author": "lyb",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Lyanbin/weakupapp/issues"
+  },
+  "homepage": "https://github.com/Lyanbin/weakupapp#readme",
+  "dependencies": {
+    "mobile-useragent-parse": "^1.0.0",
+    "parcel-bundler": "^1.6.2"
+  }
+}
