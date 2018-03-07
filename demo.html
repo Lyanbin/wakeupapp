@@ -7,6 +7,20 @@
     <title>Document</title>
 </head>
 <body>
+    <button onClick="test()">click</button>
     <script src="./index.js"></script>
+    <script>
+        function test() {
+            callApp.init({
+                ios9DownUrl: 'fr=123',
+                page: 'pb',
+                from: 'bpush',
+                callManufacturer: true,
+                param: {
+                    tid: '5582054069'
+                }
+            });
+        }
+    </script>
 </body>
 </html>
