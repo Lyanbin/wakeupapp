@@ -1,6 +1,6 @@
-import WeakUpApp from './lib/weakUpApp';
+import WakeUpApp from './lib/wakeUpApp';
 
 
-window.callApp = WeakUpApp;
+window.callApp = WakeUpApp;
 
-export default WeakUpApp;
+export default WakeUpApp;
