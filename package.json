@@ -1,6 +1,6 @@
 {
   "name": "wakeupapp",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "wakeupapp",
   "main": "wakeupapp.min.js",
   "scripts": {
@@ -19,7 +19,7 @@
   },
   "homepage": "https://github.com/Lyanbin/wakeupapp#readme",
   "dependencies": {
-    "mobile-useragent-parse": "^1.0.2"
+    "mobile-useragent-parse": "^1.0.5"
   },
   "devDependencies": {
     "babel": "^6.23.0",
