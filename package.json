@@ -1,6 +1,6 @@
 {
   "name": "wakeupapp",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "wakeupapp",
   "main": "wakeupapp.min.js",
   "scripts": {
