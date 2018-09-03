@@ -1,6 +1,6 @@
 {
   "name": "wakeupapp",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "wakeupapp",
   "main": "wakeupapp.min.js",
   "scripts": {
@@ -25,6 +25,7 @@
     "babel": "^6.23.0",
     "babel-cli": "^6.26.0",
     "babel-core": "^6.26.3",
+    "babel-plugin-transform-object-assign": "^6.22.0",
     "babel-polyfill": "^6.26.0",
     "babel-preset-env": "^1.7.0",
     "babel-register": "^6.26.0",
